@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c6e684d-0118-473e-a1ec-97a55fee314c" name="Changes" comment="첫커밋..">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1_정적팩토리메서드.java" afterDir="false" />
+    <list default="true" id="2c6e684d-0118-473e-a1ec-97a55fee314c" name="Changes" comment="README.md파일 추가">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1/MyPhoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1/단점1/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1/단점1/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1/단점1/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1/장점3/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1/장점3/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1/장점3/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/이펙티브자바/item1/장점3/Grade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,7 +36,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Htmh4vsW8bezSAQxFzhSaodi0h" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm"
   }
@@ -47,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669112870905</updated>
       <workItem from="1669112872253" duration="1904000" />
-      <workItem from="1669189712858" duration="2579000" />
+      <workItem from="1669189712858" duration="19424000" />
     </task>
     <task id="LOCAL-00001" summary="첫커밋..">
       <created>1669195027915</created>
@@ -56,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669195027915</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="README.md파일 추가">
+      <created>1669196364537</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669196364537</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="첫커밋.." />
-    <option name="LAST_COMMIT_MESSAGE" value="첫커밋.." />
+    <MESSAGE value="README.md파일 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md파일 추가" />
   </component>
 </project>
