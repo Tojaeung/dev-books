@@ -1,6 +1,6 @@
-package 스프링입문.ch5.ex2;
+package 스프링입문.ch5.ex3;
 
-public class 자동차 {
+public class Car {
 	void 기어변속() {
 
 	}
