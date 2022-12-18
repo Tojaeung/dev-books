@@ -1,0 +1,34 @@
+@startuml 어댑터패턴
+scale 3
+' 클래스설정 '
+class Animal {
+    name: String
+    {abstract} cry()
+}
+
+class Cat {
+    cry()
+}
+
+class Dog {
+    cry()
+}
+
+class Bird {
+    name: String
+	sound()
+}
+
+class BirdAdapter {
+	cry()
+}
+
+' 관계설정 '
+Animal <|-- Cat
+Animal <|-- Dog
+Animal <|-- BirdAdapter
+
+' 클래스 종류 '
+abstract Animal
+
+@enduml
