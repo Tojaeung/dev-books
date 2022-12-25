@@ -1,4 +1,4 @@
-package 디자인패턴.iterator.ex1;
+package 디자인패턴.ch1_iterator.ex1;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
