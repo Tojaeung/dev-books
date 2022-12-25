@@ -1,6 +1,6 @@
-package 디자인패턴.ch3_templateMethod.ex2;
+package 디자인패턴.ch3_템플릿메서드.ex1;
 
-public class StringDisplay implements AbstractDisplay {
+public class StringDisplay extends AbstractDisplay {
 	private String string; // 표시해야 하는 문자열
 	private int width; // 문자열의 길이
 

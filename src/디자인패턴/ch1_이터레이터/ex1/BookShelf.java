@@ -1,4 +1,4 @@
-package 디자인패턴.ch1_iterator.ex1;
+package 디자인패턴.ch1_이터레이터.ex1;
 
 import java.util.Iterator;
 

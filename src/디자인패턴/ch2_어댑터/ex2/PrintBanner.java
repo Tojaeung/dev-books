@@ -1,4 +1,4 @@
-package 디자인패턴.ch2_adapter.ex2;
+package 디자인패턴.ch2_어댑터.ex2;
 
 // 위임을 통한 어댑터패턴
 public class PrintBanner extends Print {

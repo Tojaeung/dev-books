@@ -1,6 +1,6 @@
-package 디자인패턴.ch3_templateMethod.ex2;
+package 디자인패턴.ch3_템플릿메서드.ex1;
 
-public class CharDisplay implements AbstractDisplay {
+public class CharDisplay extends AbstractDisplay {
 	private char ch; // 표시해야 하는 문자
 
 	// 생성자

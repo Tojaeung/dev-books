@@ -1,4 +1,4 @@
-package 디자인패턴.ch3_templateMethod.ex2;
+package 디자인패턴.ch3_템플릿메서드.ex2;
 
 // 인터페이스 이용
 public interface AbstractDisplay {

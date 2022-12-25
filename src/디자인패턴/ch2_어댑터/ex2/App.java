@@ -1,4 +1,4 @@
-package 디자인패턴.ch2_adapter.ex2;
+package 디자인패턴.ch2_어댑터.ex2;
 
 public class App {
 	public static void main(String[] args) {

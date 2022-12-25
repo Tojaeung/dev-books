@@ -1,4 +1,4 @@
-package 디자인패턴.ch3_templateMethod.ex1;
+package 디자인패턴.ch3_템플릿메서드.ex2;
 
 public class App {
 	public static void main(String[] args) {
