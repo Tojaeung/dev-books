@@ -7,6 +7,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.Base64;
 
+// 열거타입 싱글톤 직렬화 사용시
 public class App {
 	public static void main(String[] args) throws IOException, ClassNotFoundException {
 		Elvis elvis = Elvis.INSTANCE;
